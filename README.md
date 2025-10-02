@@ -1,3 +1,2 @@
 # TP-PAGE-WEB
-backup git
-dzdz
+<!DOCTYPE html>
