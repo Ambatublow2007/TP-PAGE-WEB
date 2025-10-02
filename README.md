@@ -1,2 +1,1 @@
 # TP-PAGE-WEB
-<!DOCTYPE html>
